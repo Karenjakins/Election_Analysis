@@ -2,30 +2,29 @@
 
 ## Project Overview
 
-Complete an election audit for a Colorado Board of Elections for a recent local congressional election, the below are the goals and the findings.
+Conduct an analysis for an election audit of the Colorado Board of Elections for a recent local congressional election, to determine the winning candidate and the largest voter turnout based on county. The analysis required the follwing data to be presented:
 
-1. Calculate the total number of votes casted.
-2. Get a list of all candidates in the election.
-3. Determine the total number of votes received per candidate.
-4. Determine the percentage of votes for each candidate. 
-5. Determine the winner of the election.
+1. The total number of votes casted.
+2. The list of all candidates in the election.
+3. The total number of votes received per candidate.
+4. The total number of votes per county. 
+4. The percentage of votes for each candidate. 
+5. The winner of the election.
+6. The county with the largest voter turnout. 
 
-## Resources
+## Election Audit Results 
 
-**Data Source:** election_results.csv
+- After conducting the analysis, a total of 369,711 votes were casted during this congressional election from the counties in the precint, those being Denver, Jefferson, and Arapahoe. As can be referenced on the image below, the breakdown of the total votes per county lists Denver, the county with the largest number of votes, with an 82.8% of the popular vote achieving a total of 306,055 votes. The county of Jefferson received a 10.5% of the popular vote with 38,855 votes while Arapahoe received 6.7% of the popular vote with a total of 24,801 votes. 
 
-**Software:** Python 3.6.1, Visual Studio Code, 1.38.1
+![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Votes%20Information.png "County Votes Information")
 
-## Summary 
 
-After conducting the analysis, the results show that:
-
-- The total votes casted on this election were: 369,711
 - The running candidates were:
 		
 		- Charles Casper Stockham
 		- Diana DeGette
 		- Raymon Anthony Doane
+
 
 - The candidate results were as follows:
 
@@ -36,3 +35,12 @@ After conducting the analysis, the results show that:
 - The winner of this election was:
 
 		- Candidate Diana DeGette with 73.8% of the popular vote, which are 272,892 votes.
+
+## Election Audit Summary 
+
+
+## Resources
+
+**Data Source:** election_results.csv
+
+**Software:** Python 3.6.1, Visual Studio Code, 1.38.1

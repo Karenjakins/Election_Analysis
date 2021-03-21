@@ -18,23 +18,13 @@ Conduct an analysis for an election audit of the Colorado Board of Elections for
 
 	![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Votes%20Information.png "County Votes Information")
 
+- The running candidates and the results per candidate can are listed below and can also be reference on the screenshot below:
 
-- The running candidates were:
-		
-		- Charles Casper Stockham
-		- Diana DeGette
-		- Raymon Anthony Doane
+		- Diana DeGette received **73.8%** of the vote which are 272,892 votes, was the **winner of the election**. 
+		- Charles Casper Stockham received **23.0%** of the vote which are 85,213 votes.
+		- Raymon Anthony Doane received **3.1%** of the vote which are 11,606 votes.
 
-
-- The candidate results were as follows:
-
-		- Charles Casper Stockham received 23.0% of the vote which are 85,213 votes.
-		- Diana DeGette received 73.8% of the vote which are 272,892 votes.
-		- Raymon Anthony Doane received 3.1% of the vote which are 11,606 votes.
-
-- The winner of this election was:
-
-		- Candidate Diana DeGette with 73.8% of the popular vote, which are 272,892 votes.
+	![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Votes%20Information.png "Candidates and Election Results")
 
 ## Election Audit Summary 
 

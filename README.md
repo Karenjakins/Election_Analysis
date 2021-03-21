@@ -37,8 +37,8 @@ As can be seen in the following image, it's very easy to manipulate the script t
 **Candidate Field easily modifiable**
 ![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidate%20Field.png "Candidate Field")
 
-**County can be switched to modify the targer regions**
-![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidate%20Field.png "County Field")
+**County can be switched to modify the target regions**
+![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Field.png "County Field")
 
 ## Resources
 

@@ -32,9 +32,13 @@ The code developed to run this analysis is a great and efficient tool for the el
 
 ![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/File%20for%20analysis.png "File for analysis")
 
-As can be seen on the following image, its very easy to manipulate the script to be run for any sort of election, be it a congressional or even a federal election, as it was designed to pull the candidates from the dataset itself as opposed to being manually entered this reflects how extremely flexible and usable this code can be for the commission.
+As can be seen in the following image, it's very easy to manipulate the script to be run for any sort of election, be it a congressional or even a federal election, as it was designed to pull the candidates from the dataset itself. On the second screenshot, it can also be referenced how the input for the county could be switched to a city, or even a state and the code can be easily modified to gather this data on its own as opposed to being manually entered shows how flexible and usable this code can be for the commission.
 
+**Candidate Field easily modifiable**
 ![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidate%20Field.png "Candidate Field")
+
+**County can be switched to modify the targer regions**
+![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidate%20Field.png "County Field")
 
 ## Resources
 

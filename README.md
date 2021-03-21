@@ -13,6 +13,7 @@ Complete an election audit for a Colorado Board of Elections for a recent local 
 ## Resources
 
 **Data Source:** election_results.csv
+
 **Software:** Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary 

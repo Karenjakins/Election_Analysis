@@ -14,7 +14,7 @@ Conduct an analysis for an election audit of the Colorado Board of Elections for
 
 ## Election Audit Results 
 
-- After conducting the analysis, a total of 369,711 votes were casted during this congressional election from the counties in the precint, those being Denver, Jefferson, and Arapahoe. As can be referenced on the image below, the breakdown of the total votes per county lists Denver, the county with the largest number of votes, with an 82.8% of the popular vote achieving a total of 306,055 votes. The county of Jefferson received a 10.5% of the popular vote with 38,855 votes while Arapahoe received 6.7% of the popular vote with a total of 24,801 votes. 
+- After conducting the analysis, a total of 369,711 votes were casted during this congressional election from the counties in the precint, those being Denver, Jefferson, and Arapahoe. As can be referenced on the image below, the breakdown of the total votes per county lists Denver, the county with the largest number of votes, with an **82.8%** of the popular vote achieving a total of **306,055 votes**. The county of Jefferson received a **10.5%** of the popular vote with **38,855** votes while Arapahoe received **6.7%** of the popular vote with a total of **24,801** votes. 
 
 	![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Votes%20Information.png "County Votes Information")
 
@@ -24,7 +24,7 @@ Conduct an analysis for an election audit of the Colorado Board of Elections for
 		- Charles Casper Stockham received **23.0%** of the vote which are 85,213 votes.
 		- Raymon Anthony Doane received **3.1%** of the vote which are 11,606 votes.
 
-	![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Votes%20Information.png "Candidates and Election Results")
+	![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidates%20and%20Election%20Results.png "Candidates and Election Results")
 
 ## Election Audit Summary 
 

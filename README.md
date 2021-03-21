@@ -20,14 +20,21 @@ Conduct an analysis for an election audit of the Colorado Board of Elections for
 
 - The running candidates and the results per candidate can are listed below and can also be reference on the screenshot below:
 
-	- Diana DeGette received **73.8%** of the vote which are 272,892 votes, was the **winner of the election**. 
-	- Charles Casper Stockham received **23.0%** of the vote which are 85,213 votes.
-	- Raymon Anthony Doane received **3.1%** of the vote which are 11,606 votes.
+	- Diana DeGette received **73.8%** of the vote which are **272,892** votes, was the **winner of the election**. 
+	- Charles Casper Stockham received **23.0%** of the vote which are **85,213 votes**.
+	- Raymon Anthony Doane received **3.1%** of the vote which are **11,606 votes**.
 
 	![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidates%20and%20Election%20Results.png "Candidates and Election Results")
 
 ## Election Audit Summary 
 
+The code developed to run this analysis is a great and efficient tool for the election commmision to analyze data sets of big scales, like this audit, the code is extremely customazible and can be easily run to analyze any data set by making small adjustments. The script can be applied to any electoral tabular dataset simply by changing the source of the data on the code itself, as can be seen on the screenshot below. 
+
+![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidates%20and%20Election%20Results.png "File for analysis")
+
+As can be seen on the following image, its very easy to manipulate the script to be run for any sort of election, be it a congressional or even a national election, as it was desigend to pull the candidates from the dataset itself as opposed to be manually entered this reflects how extremely felxicble and usable this code is for the commission. 
+
+![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/Candidates%20and%20Election%20Results.png "Candidate Field")
 
 ## Resources
 
